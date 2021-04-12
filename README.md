@@ -1,5 +1,4 @@
-## prot.audio
-**dryclone plugin presets**
+## dryclone plugin presets
 
 V.20201111
 These are “dry” clones of existing plugin presets.
